@@ -1,2 +1,2 @@
 # Suicide-Prevention-Datascience
- This is my research paper topic for my Masters
+ This is my research topic for my Masters
